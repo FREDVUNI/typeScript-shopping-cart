@@ -35,4 +35,4 @@ If you want to contribute to this project, you can do so by following these step
 This project was inspired by the [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified) YouTube channel.
 
 ## Screenshot
-https://typescript-shoping-cart.netlify.app/store
+![image](https://user-images.githubusercontent.com/41730664/236780568-ad3a46e6-4238-44ed-9799-d32ddba72f05.png)
